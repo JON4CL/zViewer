@@ -1,0 +1,54 @@
+D:\_PROYECTOS\PERSONALES\Z reader\Source\zViewer\bin\Debug\zViewer.exe
+D:\_PROYECTOS\PERSONALES\Z reader\Source\zViewer\bin\Debug\zViewer.pdb
+D:\_PROYECTOS\PERSONALES\Z reader\Source\zViewer\obj\Debug\ResolveAssemblyReference.cache
+D:\_PROYECTOS\PERSONALES\Z reader\Source\zViewer\obj\Debug\zViewer.frmMain.resources
+D:\_PROYECTOS\PERSONALES\Z reader\Source\zViewer\obj\Debug\zViewer.Properties.Resources.resources
+D:\_PROYECTOS\PERSONALES\Z reader\Source\zViewer\obj\Debug\zViewer.csproj.GenerateResource.Cache
+D:\_PROYECTOS\PERSONALES\Z reader\Source\zViewer\obj\Debug\zViewer.exe
+D:\_PROYECTOS\PERSONALES\Z reader\Source\zViewer\obj\Debug\zViewer.pdb
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.exe
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.pdb
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\obj\Debug\ResolveAssemblyReference.cache
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.frmMain.resources
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.Properties.Resources.resources
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.csproj.GenerateResource.Cache
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\bin\Debug\zViewer.exe.manifest
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\bin\Debug\zViewer.application
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\bin\Debug\zViewer.exe
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\bin\Debug\zViewer.pdb
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.exe.manifest
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.application
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.FrmInfo.resources
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.ExportReport.resources
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.FrmProgress.resources
+D:\_PROYECTOS\PERSONALES\zViewer\Source\zViewer\bin\Debug\conf.ini
+D:\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.exe
+D:\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.pdb
+D:\PERSONALES\zViewer\Source\zViewer\bin\Debug\zViewer.exe.manifest
+D:\PERSONALES\zViewer\Source\zViewer\bin\Debug\zViewer.application
+D:\PERSONALES\zViewer\Source\zViewer\bin\Debug\zViewer.exe
+D:\PERSONALES\zViewer\Source\zViewer\bin\Debug\zViewer.pdb
+D:\PERSONALES\zViewer\Source\zViewer\obj\Debug\ResolveAssemblyReference.cache
+D:\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.ExportReport.resources
+D:\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.FrmInfo.resources
+D:\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.frmMain.resources
+D:\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.FrmProgress.resources
+D:\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.Properties.Resources.resources
+D:\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.csproj.GenerateResource.Cache
+D:\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.exe.manifest
+D:\PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.application
+D:\_PROYECTOS PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.exe
+D:\_PROYECTOS PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.pdb
+D:\_PROYECTOS PERSONALES\zViewer\Source\zViewer\obj\Debug\ResolveAssemblyReference.cache
+D:\_PROYECTOS PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.FrmInfo.resources
+D:\_PROYECTOS PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.frmMain.resources
+D:\_PROYECTOS PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.Properties.Resources.resources
+D:\_PROYECTOS PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.csproj.GenerateResource.Cache
+D:\_PROYECTOS PERSONALES\zViewer\Source\zViewer\bin\Debug\zViewer.exe.manifest
+D:\_PROYECTOS PERSONALES\zViewer\Source\zViewer\bin\Debug\zViewer.application
+D:\_PROYECTOS PERSONALES\zViewer\Source\zViewer\bin\Debug\zViewer.exe
+D:\_PROYECTOS PERSONALES\zViewer\Source\zViewer\bin\Debug\zViewer.pdb
+D:\_PROYECTOS PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.exe.manifest
+D:\_PROYECTOS PERSONALES\zViewer\Source\zViewer\obj\Debug\zViewer.application
+D:\_PROYECTOS\_UTILIDADES\zViewer Complete\Source\zViewer\obj\Debug\zViewer.exe
+D:\_PROYECTOS\_UTILIDADES\zViewer Complete\Source\zViewer\obj\Debug\zViewer.pdb
